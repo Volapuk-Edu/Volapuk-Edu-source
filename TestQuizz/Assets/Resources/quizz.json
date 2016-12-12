@@ -1,0 +1,183 @@
+{
+	"allQuestion" : [{
+			"question" : [
+			{
+		"question": "Elle est revenu à Anosibe. Elle était parti depuis deux jours.",
+		"option1": "Le sujet du verbe est ELLE, donc accord.",
+		"option2": "invariable car on utilise l'auxiliaire être.",
+		"response": "option1"
+	}, {
+		"question": "Nous espérons pouvoir être revenus à la fin de la journée.",
+		"option1": "Cette phrase est fausse, puisqu'il n'y pas de sujet à revenus",
+		"option2": "Cette phrase est juste, puiqsque l'accord se fait avec nous.",
+		"response": "option2"
+	}, {
+		"question": "Il est arrivé deux personnes hier.",
+		"option1": "Cette phrase n'a pas de sens du tout.",
+		"option2": "L'accord du paticipe passé se fait avec il.",
+		"response": "option2"
+	}, {
+		"question": "Les papiers que j’ai longtemps cherchés et qui ont été miraculeusement retrouvé sous mon lit étaient très importants.",
+		"option1": "il y a une faute sur retrouvé qui devrait s'accorder avec qui.",
+		"option2": "il y a une faute sur cherchés qui devrait s'accordé avec je.",
+		"response": "option1"
+	}, {
+		"question": "À cause de la pluie, toutes les voitures sont mouillée dans la rue.",
+		"option1": "C'est normale, la pluie est féminin",
+		"option2": "C'est faux, il a plusieurs voitures",
+		"response": "option2"
+	}, {
+		"question": "Les voitures ont été mouillé par l’averse de cette nuit",
+		"option1": "Il n'y a pas d'accord puisque l'auxiliaire est avoir.",
+		"option2": "Il doit y avoir accord puisque l'auxilière est être.",
+		"response": "option2"
+	}, {
+		"question": "cette commode, il l’a trouvée chez un brocanteur.",
+		"option1": "S'accorde avec le C.O.D. qui est placé devant.",
+		"option2": "Ne devrait pas s'accorder car l'auxilière est être",
+		"response": "option1"
+	}, {
+		"question": "La course s’est passée comme on l’avait prévue.",
+		"option1": "Prévu doit s'accorder avec l' placé devant.",
+		"option2": "L' fair référence à une proposition donc pas d'accord.",
+		"response": "option1"
+	}, {
+		"question": "Voici les fruits que lui a donné la mère de Véronique.",
+		"option1": "On ne fait pas l'accord quand l'auxiliaire est avoir.",
+		"option2": "On fait L'accord avec le C.O.D. placé devant.",
+		"response": "option2"
+	}, {
+		"question": "L'enseignante nous a observés toute la journée.",
+		"option1": "On fait L'accord avec le C.O.D. placé devant.",
+		"option2": "On ne fait pas l'accord car il n'y a pas de C.O.D.",
+		"response": "option1"
+	}, {
+		"question": "Des femmes, Anthony en a salué toute la journée.",
+		"option1": "Pas d'accord puisque le C.O.D. est le pronom en.",
+		"option2": "Devrait s'accorder avec femmes qui est C.O.D.",
+		"response": "option1"
+	}, {
+		"question": "Il faut comparer cette dépense aux cinq millions d’Ariary qu’a coûté la réparation du bâtiment.",
+		"option1": "Devrait s'accorder avec QUE qui remplace dépense.",
+		"option2": "On ne fait pas l'accord quand le Participe Passé est un verbe de mesure.",
+		"response": "option2"
+	}, {
+		"question": "Le musicien explique dans le film toutes les difficultés que lui a coûtées la composition de ce morceau.",
+		"option1": "On ne fait pas l'accord quand le Participe Passé est un verbe de mesure.",
+		"option2": "On fait l'accord avec que qui est un C.O.D.",
+		"response": "option2"
+	}, {
+		"question": "Des hommes, elle en a rencontrés vraiment beaucoup au café du quartier.",
+		"option1": "Pas d'accord puisque le C.O.D. est le pronom en.",
+		"option2": "Devrait s'accorder avec HOMMES qui est C.O.D.",
+		"response": "option1"
+	}, {
+		"question": "La mère de Véronique lui a donné des fruits pas très mûrs.",
+		"option1": "La mère de Véronique a donné quoi ? LE C.O.D. est placé après.",
+		"option2": "Doit s'accorder avec lui qui est placé devant le Participe Passé.",
+		"response": "option1"
+	}, {
+		"question": "Adèle nous a parlé toute la journée de ses rêves et de ses ambitions.",
+		"option1": "Doit s'accorder avec nous qui est un pronom placé devant.",
+		"option2": "Le C.O.D. est absent, donc invariable.",
+		"response": "option2"
+	}, {
+		"question": "Elle s’est toujours soigné avec des plantes médicinales",
+		"option1": "Doit y avoir accord. S' est C.O.D., car on peut dire : soigner quelqu’un.",
+		"option2": "S' est une forme pronominale, donc aucune accord.",
+		"response": "option1"
+	}
+			]
+		}, {"question" : [
+		{
+		"question": "Elles se sont amusées sous la pluie toute la journée.",
+		"option1": "Pas d'accord car il s'agit d'une forme pronominale.",
+		"option2": "Elles ont amusé qui ? Réponse : se. Et se est placé avant le verbe.",
+		"response": "option2"
+	},
+		{
+		"question": "Voici les histoires que se sont racontés Jean et Luc hier.",
+		"option1": "Doit s'accorder avec SE qui remplace les histoires",
+		"option2": "Les sujets sont Luc et Jean, donc masculin pluriel.",
+		"response": "option1"
+	}, {
+		"question": "Mes deux grandes soeurs se sont accordé deux mois de vacances.",
+		"option1": "Doit être accordé avec le sujet, qui est féminin pluriel.",
+		"option2": "SE n'est pas C.O.D. mais C.O.I., donc pas d'accord.",
+		"response": "option2"
+	}, {
+		"question": "Jean et Luc se sont racontés des histoires toute la soirée.",
+		"option1": "SE n'est pas C.O.D. mais C.O.I., donc pas d'accord.",
+		"option2": "On fait l'accord avec le sujet qui est masculi pluriel.",
+		"response": "option1"
+	}, {
+		"question": "Elles se sont parlées pendant des heures de leurs anciens petits amis.",
+		"option1": "Il doit y avoir accord puisque l'auxilière est ETRE.",
+		"option2": "Ne devrait pas y avoir car se est un C.O.I.",
+		"response": "option2"
+	}, {
+		"question": "Les nouvelles se sont succédé à un rythme fou.",
+		"option1": "Doit s'accorder avec SE qui est un C.O.D.",
+		"option2": "Les nouvelles ont succédé quoi ? Aucune réponse. Donc invariable.",
+		"response": "option2"
+	}, {
+		"question": "Elle s’est enfuie de chez elle sans dire un mot à personne.",
+		"option1": "Le Participe Passé est invariable puisque se n'est ni C.O.D., ni C.O.I.",
+		"option2": "Le Participe Passé doit s'accorder avec le sujet puisque SE n'est ni C.O.D, ni C.O.I.",
+		"response": "option2"
+	}, {
+		"question": "Elle s’est souvenue de leur rencontre sous la pluie.",
+		"option1": "Le Participe Passé doit s'accorder avec le sujet puisque se n'est ni C.O.D, ni C.O.I.",
+		"option2": "Le Participe Passé est invariable puisque se n'est ni C.O.D., ni C.O.I.",
+		"response": "option1"
+	}, {
+		"question": "La veste qu’il a voulu acheter était trop grande pour lui.",
+		"option1": "Qu’ est C.O.D. de acheter et non de a voulu donc on n’accorde pas.",
+		"option2": "Qu’ est C.O.D. de a voulu et non de acheter donc s'accorde.",
+		"response": "option1"
+	}, {
+		"question": "J’ai téléphoné à Adèle et je l’ai remerciée d’avoir pensé à nous.",
+		"option1": "Doit s'accorder avec le sujet qui est masculin singulier.",
+		"option2": "L' est C.O.D. donc on accorde le Participe Passé.",
+		"response": "option2"
+	}, {
+		"question": "Je connais les forestiers qu’elle a vu abattre des arbres.",
+		"option1": "On accorde le Participe Passé vus avec son C.O.D. forestiers.",
+		"option2": "On accorde donc le Participe Passé vu avec son sujet elle.",
+		"response": "option1"
+	}, {
+		"question": "Il ne reste rien des arbres qu’elle a vu abattre l’été dernier.",
+		"option1": "On accorde donc le Participe Passé vu avec son sujet elle.",
+		"option2": "Les arbres abattaient. Le Participe Passé ne s’accorde pas.",
+		"response": "option2"
+	}, {
+		"question": "Il n’a pas encore reçu les cartes qu’il a fait acheter par le directeur de l’agence de voyage.",
+		"option1": "le Participe Passé de faire suivi d’un infinitif est invariable.",
+		"option2": "Ne s'accorde pas parce que le sujet est masculin singulier.",
+		"response": "option1"
+	}, {
+		"question": "Elle aurait souhaité dormir tôt cette nuit, tellement elle est fatiguée.",
+		"option1": "Doit s'accorder avec le sujet ELLE qui est féminin singulier.",
+		"option2": "c’est l’infinitif lui-même qui est C.O.D. Il est à droite, donc pas d’accord.",
+		"response": "option2"
+	}, {
+		"question": "Elles se sont vues instruire leurs enfants.",
+		"option1": "Elles instruisaient (leurs enfants). On accorde le Participe Passé avec son C.O.D.",
+		"option2": "Le C.O.D. (leurs enfants) est placé à droite. Donc pas d'accord avec se mais avec le sujet. ",
+		"response": "option1"
+	}, {
+		"question": "Elles se sont vu instruire par leurs maitres.",
+		"option1": "On accorde le Participe Passé avec son C.O.D. (leurs maitres).",
+		"option2": "Leurs maitres les instruisaient. Le Participe Passé ne s’accorde pas.",
+		"response": "option1"
+	}, {
+		"question": "Les enfants, nous les avons fait dessiner toute la journée.",
+		"option1": "Ne s'accorde pas parce que l'auxiliaire est avoir.",
+		"option2": "le Participe Passé de faire suivi d’un infinitif est invariable.",
+		"response": "option2"
+	}
+			]
+			
+		}
+	]
+}

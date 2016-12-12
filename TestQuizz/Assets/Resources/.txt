@@ -1,0 +1,22 @@
+Qu'est-ce qu'un gibbon ?  faux en 1 s
+-----------11/10/2016 8:58:37 PM--------- 
+Quel est le nom de l'Avare de Molière ? faux en 0 s
+Quel est le pays à avoir mis en orbite le premier satellite ?  faux en 2 s
+Quelle est la racine carrée de 900 ?   faux en 1 s
+Où se trouve le mont Popocatepetl ? vrai en 1 s
+Où les chevaux de course prennent-ils leur départ ?  vrai en 1 s
+Où la ville de Chicago est-elle bâtie ? vrai en 1 s
+Quel est le biscuit que Proust a rendu célèbre ? faux en 1 s
+Qu'est-ce qu'une caravelle ? vrai en 1 s
+Combien d'états comportent les USA ? faux en 1 s
+Dans quelle partie du corps se trouve l'humérus ? vrai en 1 s
+Comment s'appelle l'arbre fruitier produisant le coing ? vrai en 1 s
+Qui est Norma Jean Baker ? faux en 1 s
+Comment s'appelle la principale presqu'île grecque ? vrai en 1 s
+Quel est le surnom de Simon Templar ?  faux en 1 s
+Quel est le prénom de la femme de John F. Kennedy ? vrai en 1 s
+Qui raconte une saison en Enfer ?  faux en 1 s
+Que sont le Sirocco, le Khassim et le Foehn ? vrai en 1 s
+Qu'appelait-on « cloaques » à Rome dans l'Antiquité ?  faux en 1 s
+Combien y a-t-il de sortes de vitamines ?  vrai en 1 s
+Comment se finit un combat libre au judo ? faux en 1 s
